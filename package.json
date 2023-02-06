@@ -1,0 +1,20 @@
+{
+  "name": "Adminbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zery",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fb": "^2.0.0",
+    "node-fetch": "^2.3.0",
+    "parse5": "^5.1.0",
+    "random-js": "^1.0.8",
+    "sqlite": "^3.0.2",
+    "xml2js": "^0.4.19"
+  }
+}

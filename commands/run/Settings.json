@@ -1,0 +1,12 @@
+{
+"status":{
+	"Las" : "<API-KEY>",
+	"Lan" : "<API-KEY>",
+	"Euw" : "<API-KEY>"
+
+},
+"Feed":{
+	"Las" : "https://las.leagueoflegends.com/es/rss.xml",
+	"Lan" : "https://lan.leagueoflegends.com/es/rss.xml"
+  }
+}

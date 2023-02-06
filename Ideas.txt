@@ -1,0 +1,57 @@
+Evento 
+-Nombre al video/Imagen
+-Descripcion al video/Imagen
+-crear una frase de interacion para un campeon
+
+-Video
+tu tienda edit con las recompensas
+
+emoji para registrarse en notificadores
+Crear video 3D
+
+
+DISCORD
+notificador de eventos
+
+emotes del lol como iconos del server
+---Dejar activo/info/Facebook API/Simulador Hextech
+---Agregar rol con emoji
+---para dar rango notificacion requiere algun otro rol antes
+
+---kick, por mala palabra/spam
+
+evento bot
+captura poros
+
+creador de partys
+---canales de voz
+---creador de canales
+registro por cliente
+rotacion de campeones
+---creador de canales audio
+---no poder elegir rol notificar si no tiene otro rol
+---weebhoook en twitch y youtube
+
+creador de partys detecte los usuarios en el canal y muestre roles y division
+dentro de un canal de voz, buscar el rol de la gentecrear puestos disponibles
+
+status 2.1
+export datos desde el status a otra pagina donde los anuncia
+
+Notificador de eventos ON
+
+
+KDA-TEAM(4)
+Editan canal para 6 cuando entran o cuando salen
+Responder por orden if esta uno en un canal entra el 2 si estan los 2 entra el 3
+responden todos al mismo comando	 
+
+server status 3.0
+
+multi embed, borrar y publicar cuando algo se actualiza
+
+
+info-canal
+mostrar como crear canales etc
+
+--categorias por region, contar canales con .children
